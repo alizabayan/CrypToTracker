@@ -49,6 +49,6 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 
 Contact -
 
-For any questions or feedback, please reach out to us at omshukla2060@gmail.com.
+For any questions or feedback, please reach out to us at aliza.bayan1309@icloud.com
 
 Thank you for choosing CrypToTracker. Happy tracking! 🚀
