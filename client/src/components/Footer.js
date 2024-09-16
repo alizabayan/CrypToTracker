@@ -7,7 +7,7 @@ const Footer = () => {
   return (
     <div className=" flex p-4 justify-between items-center">
       <h1 className="text-[20px] font-black cursor-pointer">
-        Made with ❤️ by<span className="text-blue-600"> Om Shukla</span>
+        Made by<span className="text-blue-600"> aliza bayan</span>
       </h1>
       <div className="flex text-[30px] gap-3">
         <FaWhatsapp color="green" />
